@@ -12,7 +12,7 @@ I'm [Andrew Smith](https://atsmitharc.com), an _architect_, _computational desig
 ![](https://img.shields.io/static/v1?label=&logo=react&message=React&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=node.js&message=node.js&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=sass&message=SASS&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label&logo=mongodb&message=mongodb&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=sqlite&message=sqlite&style=for-the-badge&color=black)
 
 ![](https://img.shields.io/static/v1?label&logo=npm&message=NPM&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=nuget&message=Nuget&style=for-the-badge&color=black)
