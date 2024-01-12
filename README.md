@@ -11,8 +11,6 @@ I'm [Andrew Smith](https://atsmitharc.com), an _architect_, _computational desig
 ### I use...
 
 ![](https://img.shields.io/static/v1?label=&logo=react&message=React&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=github&logo=github&message=actions&style=for-the-badge&color=blue&labelColor=black)
-
 ![](https://img.shields.io/static/v1?label&logo=node.js&message=node.js&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=sass&message=SASS&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=mongodb&message=mongodb&style=for-the-badge&color=black)
