@@ -10,7 +10,7 @@ I'm [Andrew Smith](https://atsmitharc.com), an _architect_, _computational desig
 
 ### I use...
 
-![](https://img.shields.io/static/v1?label=&logo=vue.js&message=Vue.js&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=react&message=React&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label=github&logo=github&message=actions&style=for-the-badge&color=blue&labelColor=black)
 
 ![](https://img.shields.io/static/v1?label&logo=node.js&message=node.js&style=for-the-badge&color=black)
@@ -19,7 +19,3 @@ I'm [Andrew Smith](https://atsmitharc.com), an _architect_, _computational desig
 
 ![](https://img.shields.io/static/v1?label&logo=npm&message=NPM&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=nuget&message=Nuget&style=for-the-badge&color=black)
-
-### I'm currently learning...
-
-![](https://img.shields.io/static/v1?label=ifc&message=industry%20foundation%20classes&style=for-the-badge&color=black&labelColor=d41f4e)
