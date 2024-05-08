@@ -1,5 +1,3 @@
-### Hello❗️
-
 I'm [Andrew Smith](https://atsmitharc.com), an _architect_, _computational designer_, and _coder_ currently based in Copenhagen. 
 
 ### I code mainly in...
